@@ -23,12 +23,13 @@ class AppBar extends HTMLElement {
           color: white;
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
         }
-        h2 {
-          padding: 16px;
+        h1 {
+          padding: 30px;
+          text-align: center;
         }
       </style>
       
-      <h2>Doa Finder</h2>
+      <h1>Doa Finder</h1>
     `;
   }
 }
